@@ -5,7 +5,7 @@ const FooterComponent = () => {
     <div>
         <footer className='footer'>
             <span>
-                All rights reserved 2023
+            <p>&copy; 2023 Your Criminal Record Management System. All rights reserved.</p>
             </span>
         </footer>
     </div>
